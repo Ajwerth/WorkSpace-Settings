@@ -1,0 +1,40 @@
+{
+  "workbench.colorTheme": "Flat UI Custom",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.wordWrap": "on",
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.osx": "zsh",
+  "editor.formatOnSave": false,
+  "eslint.enable": true,
+  "eslint.alwaysShowStatus": true,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "left": {
+        "custom": {
+          "borderWidth": "0 0 0 1px",
+          "borderStyle": "solid",
+          "borderColor": "#ff00a1",
+          "borderRadius": "5px",
+        }
+      },
+      "right": {
+        "custom": {
+          "borderWidth": "0 1px 0 0",
+          "borderStyle": "solid",
+          "borderColor": "#ff00a1",
+          "borderRadius": "5px",
+        }
+      }
+    }
+  },
+  "editor.tabSize": 4,
+  "[javascript]": {
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.tabSize": 2
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "workbench.iconTheme": "material-icon-theme"
+}
